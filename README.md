@@ -83,4 +83,4 @@ To render episodes of the `Warehouse[N]` or `Battle[N]` domain, set `params["ren
 
 ## 8. References
 
-- [1] T. Phan et al., "VAST: Value Function Factorization with Variable Agent Sub-Teams", in NeurIPS 2021
+- [1] T. Phan et al., ["VAST: Value Function Factorization with Variable Agent Sub-Teams"](https://openreview.net/pdf?id=hyJKKIhfxxT), in NeurIPS 2021
